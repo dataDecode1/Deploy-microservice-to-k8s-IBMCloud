@@ -3,7 +3,9 @@
 https://ibm.github.io/openshift-on-ibm-cloud-workshops/1-prereqs.html
 
 ## Red hat openshift cluster Overview
-  - With Red Hat OpenShift on IBM Cloud, OpenShift developers have a fast and secure way to containerize and deploy enterprise workloads in Kubernetes clusters. OpenShift clusters build on Kubernetes container orchestration that offers consistency and flexibility in operations. Because IBM manages OpenShift Container Platform (OCP), you'll have more time to focus on your core tasks.
+- https://docs.openshift.com/enterprise/3.1/dev_guide/new_app.html
+- https://docs.openshift.com/container-platform/4.3/welcome/index.html
+- With Red Hat OpenShift on IBM Cloud, OpenShift developers have a fast and secure way to containerize and deploy enterprise workloads in Kubernetes clusters. OpenShift clusters build on Kubernetes container orchestration that offers consistency and flexibility in operations. Because IBM manages OpenShift Container Platform (OCP), you'll have more time to focus on your core tasks.
 
 ## Features
 - OpenShift experience built on Kubernetes
