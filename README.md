@@ -2,6 +2,8 @@
 
 https://ibm.github.io/openshift-on-ibm-cloud-workshops/1-prereqs.html
 
+Follow - https://github.com/dataDecode1/Deploy-microservice-to-k8s-IBMCloud/blob/master/Deploy_java_Microservice_on_k8s_OpenShift_on_IBM%20Cloud.docx
+
 ## Red hat openshift cluster Overview
 - https://docs.openshift.com/enterprise/3.1/dev_guide/new_app.html
 - https://docs.openshift.com/container-platform/4.3/welcome/index.html
