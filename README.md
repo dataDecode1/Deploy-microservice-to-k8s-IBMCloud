@@ -1,4 +1,4 @@
-# Deploy-microservice-to-k8s-IBMCloud
+# Deploy-microservice-to-k8s-openshift-IBMCloud
 
 https://ibm.github.io/openshift-on-ibm-cloud-workshops/1-prereqs.html
 
