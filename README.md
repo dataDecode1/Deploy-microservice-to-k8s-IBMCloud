@@ -25,6 +25,7 @@ Follow - https://github.com/dataDecode1/Deploy-microservice-to-k8s-IBMCloud/blob
 - https://haralduebele.blog/
 - https://twitter.com/Harald_U
 - https://www.meetup.com/IBM-Developers/events/269785699/
+- Other developer advocates / lab facilitators - Mirium, Marion(created openliberty docker image for redhat. redhat have only jboss support previosly), Andrea, Sebastian, Niklas, Harald, Thomas
 
 ## Misc
 https://www.google.com/search?q=crc+openshift&oq=crc+openshift+&aqs=chrome..69i57j0l7.2295j0j7&sourceid=chrome&ie=UTF-8
