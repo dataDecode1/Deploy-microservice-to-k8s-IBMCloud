@@ -22,3 +22,6 @@ https://ibm.github.io/openshift-on-ibm-cloud-workshops/1-prereqs.html
 ## Lab instructor details
 - https://haralduebele.blog/
 - https://twitter.com/Harald_U
+
+## Misc
+https://www.google.com/search?q=crc+openshift&oq=crc+openshift+&aqs=chrome..69i57j0l7.2295j0j7&sourceid=chrome&ie=UTF-8
