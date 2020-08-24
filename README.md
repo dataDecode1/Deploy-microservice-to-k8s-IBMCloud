@@ -1,5 +1,3 @@
-- https://medium.com/faun/kubernetes-operators-to-realize-the-dream-of-zero-touch-ops-5bc8c3e5e11b
-
 # Deploy-microservice-to-k8s-openshift-IBMCloud
 
 https://ibm.github.io/openshift-on-ibm-cloud-workshops/1-prereqs.html
