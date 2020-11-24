@@ -1,3 +1,8 @@
+Hands on learning of commands
+
+- https://learn.openshift.com/
+- https://www.katacoda.com/
+
 # Deploy-microservice-to-k8s-openshift-IBMCloud
 
 https://ibm.github.io/openshift-on-ibm-cloud-workshops/1-prereqs.html
