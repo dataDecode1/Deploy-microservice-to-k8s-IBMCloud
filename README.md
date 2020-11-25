@@ -1,5 +1,5 @@
 Hands on learning of commands
-
+- https://partnercenter.redhat.com/Dashboard_page
 - https://learn.openshift.com/
 - https://learn.redhat.com/t5/Red-Hat-Training-Videos/bg-p/Red_Hat_Training_Videos
 - https://www.katacoda.com/
