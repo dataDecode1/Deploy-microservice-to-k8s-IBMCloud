@@ -1,6 +1,7 @@
 Hands on learning of commands
 
 - https://learn.openshift.com/
+- https://learn.redhat.com/t5/Red-Hat-Training-Videos/bg-p/Red_Hat_Training_Videos
 - https://www.katacoda.com/
 
 # Deploy-microservice-to-k8s-openshift-IBMCloud
