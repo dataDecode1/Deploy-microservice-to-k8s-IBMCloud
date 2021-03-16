@@ -1,4 +1,5 @@
 Hands on learning of commands
+- https://learn.openshift.com/
 - https://partnercenter.redhat.com/Dashboard_page
 - https://training-lms.redhat.com/lmt/lmtLogin.prMenu?in_sessionid=22244284J0013J93
 - https://redhat-partner.highspot.com/
